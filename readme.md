@@ -3,6 +3,11 @@
 
 [国立国会図書館デジタルコレクション](http://dl.ndl.go.jp/)のインターネット公開資料から、平仮名の文字画像を切り出したデータセットを試験公開しました。画像形式はPNGで、計8万画像あります。
 
+### データセットの権利
+
+「PDM（パブリック・ドメイン・マーク）」&lt; https://creativecommons.org/publicdomain/mark/1.0/deed.ja &gt;
+
+
 文字画像の例:
 
 <table ~~~ style="table-layout:fixed;width:100%;">
@@ -36,7 +41,6 @@
 * [文字画像データセット(平仮名73文字版) (tar.gz形式)](http://lab.ndl.go.jp/dataset/hiragana73.tar.gz)　(約193MB)
 * [文字画像データセット(平仮名73文字版) (zip形式)](http://lab.ndl.go.jp/dataset/hiragana73.zip)　(約233MB)
 
-※ダウンロードがうまく行かない場合
 
 内訳は次のとおりです。
 
